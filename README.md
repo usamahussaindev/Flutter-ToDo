@@ -1,8 +1,7 @@
 # Simple Project Flutter Todo App
 
-<p align="center">
- ![Screenshot 2023-10-23 040851](https://github.com/usamahussaindev/ToDO-Flutter/assets/118635657/e9578b74-be31-4b8f-8773-adc9956f7f7c)
-</p>
+
+![image](https://github.com/usamahussaindev/ToDO-Flutter/assets/118635657/4e0afdee-e74b-4cf3-b407-9bd7370721e3)
 
 Welcome to the Flutter Todo App! This is a simple and efficient task management application built using Flutter.
 
